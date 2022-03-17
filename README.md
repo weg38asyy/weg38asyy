@@ -1,10 +1,13 @@
 <p align="center">
+<a title="github" target="_blank" href="/"><img src="https://img.shields.io/badge/歡迎-光臨-green" ></a>
+<br/>
+</p>
+
+<p align="center">
    <img src="https://imgur.com/mL7FmQI.gif" alt="typing-svg">
 </p>
 
 <p align="center">
-<a title="github" target="_blank" href="/"><img src="https://img.shields.io/badge/歡迎-光臨-green" ></a>
-<br/>
 <a title="考拉茶棧-個人Blog" target="_blank" href="https://fly-koala.com/"><img src="https://img.shields.io/badge/考拉茶棧-營業中-6adea8?style=social&logo=cakephp" ></a>
 </p>
 
